@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.dist/
+*.pt
+checkpoints/*.pt
+data/history.csv
+data/manifest.csv
+data/LibriSpeech/
+data/*.tar.gz
+.DS_Store
